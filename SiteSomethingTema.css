@@ -1,0 +1,136 @@
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+.header header {
+    font-size: 40px;
+    text-align: center;
+    border: 2px solid #b1ab9f;
+    font-family: arial;
+    background-color: #ffe599;
+    padding: 10px;
+}
+.header img{
+    width: 70px;
+    float: left;
+    margin-left: 30px;
+}
+.menu p {
+    float: left;
+    font-size: 40px;
+    margin-top: 0px;
+    border: 2px solid #b1ab9f;
+    background-color: #b6d7a8;
+    font-family: arial;
+    width: calc(50% - 24px);
+    padding: 10px;
+    margin-bottom: 0px;
+    text-align: center;
+    
+}
+.importantZ p{
+    text-align: center;
+    float: right;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 10px;
+    border: 2px solid #b1ab9f;
+    background-color: #ea9999;
+    font-family: arial;
+    width: calc(50% - 24px);
+}
+
+.Beadcrumb p{
+    float: right;
+    font-size: 40px;
+    margin-top: 0px;
+    border: 2px solid #b1ab9f;
+    background-color: #ffe599;
+    font-family: arial;
+    width: calc(83% - 8px);
+    padding: 10px;
+    margin-bottom: 0px;
+}
+
+.ContactInf p {
+    float: left;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    font-size: 40px;
+    border: 2px solid #b1ab9f;
+    background-color: #d9ead3;
+    font-family: arial;
+    width: calc(10% - 3px);
+    height: 100%;
+    padding: 25px;
+    text-align: center;
+    transform: rotate(-90deg);
+}
+
+.ForthRow{
+    width: 100%;
+    padding: 0px;
+}
+
+.Content p{
+    float: left;
+    font-size: 40px;
+    margin: 0px;
+    border: 2px solid #b1ab9f;
+    background-color: #b3a77d;
+    font-family: arial;
+    width: calc(57% - 7px);
+    padding: 60px;
+    text-align: center;
+}
+
+.SecondContent p{
+    float: right;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 40px;
+    border: 2px solid #b1ab9f;
+    background-color: #d9ead3;
+    font-family: arial;
+    width: calc(10% - 2px);
+    padding: 25px;
+    transform: rotate(-90deg);
+}
+
+.FifthRow ul{
+    width: 100%;
+    padding: 0px;
+}
+
+.firstTwo li{
+    list-style-type: none;
+    float: left;
+    width: calc(25% - 4px);
+    font-size: 40px;
+    text-align: center;
+    border: 2px solid #b1ab9f;
+    font-family: arial;
+    background-color: #ffe599;
+    padding-bottom: 40px;
+}
+
+.secondTwo li{
+    list-style-type: none;
+    float: left;
+    width: calc(25% - 4px);
+    font-size: 40px;
+    text-align: center;
+    border: 2px solid #b1ab9f;
+    font-family: arial;
+    background-color: #ffe599;
+    padding-bottom: 40px;
+}
+
+
+
